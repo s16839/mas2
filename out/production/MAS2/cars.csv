@@ -1,0 +1,17 @@
+Marka,Model,Nadwozie,Silnik,Drzwi,Rabat,Opcje
+Kia,Soul,crossover,benzynowy,5,nie,klimatyzacja;czujniki parkowania;autoalarm
+Kia,Sportage,SUV,diesel,5,nie,klimatyzacja;panoramiczny dach;czujniki parkowania;autoalarm;nawigacja
+Kia,Rio,hatchback,benzynowy,3,tak,czujniki parkowania;autoalarm;
+Toyota,Corolla,sedan,benzynowy,4,nie,klimatyzacja;radio
+Toyota,Yaris,hatchback,benzynowy,3,tak,klimatyzacja;radio
+Toyota,Prius,hatchback,hybryda,4,tak,czujniki parkowania
+Toyota,Landcruiser,SUV,benzynowy,5,nie,klimatyzacja;panoramiczny dach;radio;nawigacja
+Toyota,Landcruiser,SUV,diesel,5,nie,klimatyzacja;panoramiczny dach;radio;nawigacja
+Toyota,GT86,coupe,benzynowy,2,nie,czujniki parkowania;nawigacja
+Toyota,Avensis,sedan,diesel,4,tak,klimatyzacja;radio;nawigacja;autoalarm
+Honda,Civic,hatchback,benzynowy,5,tak,klimatyzacja;radio
+Honda,CR-Z,coupe,hybryda,2,tak,autoalarm
+Honda,CR-V,SUV,benzynowy,5,tak,tempomat;radio
+Mitsubishi,Pajero,SUV,diesel,5,nie,klimatyzacja;radio
+Ford,Focus,hatchback,benzynowy,5,nie,klimatyzacja;czujniki parkowania;radio;autoalarm
+Ford,Focus,hatchback,diesel,5,nie,klimatyzacja;czujniki parkowania;radio;autoalarm
